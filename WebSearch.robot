@@ -12,6 +12,7 @@ Open web URL and search keyword TV, add TV with “44 - 55 inches” screen size
     Search for TV of size  '44 - 55 inches'
     Add a Delivery item to cart
     go back
+    Sleep  5s
     Uncheck TV filter for  '44 - 55 inches'
     Search for TV of size  '32 - 43 inches'
     Add a Delivery item to cart
